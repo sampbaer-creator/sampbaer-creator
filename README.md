@@ -14,14 +14,14 @@ At Utah Valley University, I am completing a B.S. in Information Systems with an
 
 ## Current Projects
 
-- 🌐 [Portfolio](https://github.com/sampbaer-creator/Portfolio) — An interactive 3D portfolio built with React, Three.js, Anime.js, and Motion.
-- 📊 [Business Statistics Analysis](https://github.com/sampbaer-creator/R_Final_Project) — Statistical analysis and data storytelling in R.
-- 💍 [Our Wedding](https://github.com/sampbaer-creator/Sam_Kelcee) — A personal event website and planning experience.
-- 🌦️ [WeatherControl](https://github.com/sampbaer-creator/WeatherControl) — A cross-platform weather application built with .NET MAUI and C#.
+- 🌐 [Portfolio](https://github.com/sampbaer-creator/Portfolio) — My responsive React portfolio, designed around a clean professional layout that presents my BI, analytics, experience, and development work.
+- 📊 [Business Statistics Analysis](https://github.com/sampbaer-creator/R_Final_Project) — A client-ready R analysis using regression, hypothesis testing, and data visualization for the UVU Women’s Impact Lab.
+- 💍 [Our Wedding](https://github.com/sampbaer-creator/Sam_Kelcee) — A personal wedding website with event details, imagery, registry information, and an RSVP experience.
+- 🌦️ [WeatherControl](https://github.com/sampbaer-creator/WeatherControl) — A cross-platform .NET MAUI weather application that retrieves live conditions by ZIP code or city.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Baer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-baer-78b5b9234/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-013e37?style=for-the-badge&logo=vercel&logoColor=ffefb3)](https://sampbaer-creator.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-p-baer/) [![Portfolio](https://img.shields.io/badge/Portfolio-013e37?style=for-the-badge&logo=googlechrome&logoColor=ffefb3)](https://sampbaer-creator.github.io/Portfolio/)
 
 ### 📊 My Portfolio Website
 
