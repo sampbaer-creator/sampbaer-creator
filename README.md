@@ -14,7 +14,8 @@ Here you will find:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Baer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-p-baer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-013e37?style=for-the-badge&logo=googlechrome&logoColor=ffefb3)](https://sampbaer-creator.github.io/Portfolio/)
-[![WattWeather](https://img.shields.io/badge/Live_Weather_App-ffefb3?style=for-the-badge&logo=githubpages&logoColor=013e37)](https://sampbaer-creator.github.io/WattWeather/)
+[![GridGuard](https://img.shields.io/badge/Live_GridGuard-1f9c8b?style=for-the-badge&logo=googlemaps&logoColor=white)](https://gridguard-utah.earthy-moth-6817.chatgpt.site)
+[![WattWeather](https://img.shields.io/badge/Live_WattWeather-ffefb3?style=for-the-badge&logo=githubpages&logoColor=013e37)](https://sampbaer-creator.github.io/WattWeather/)
 
 I am open to internships and early-career opportunities in **business intelligence, data analytics, data science, and software development**.
 
@@ -31,13 +32,19 @@ At Utah Valley University, I am completing a **B.S. in Information Systems with 
 
 ## Featured projects
 
+### 🗺️ [GridGuard](https://github.com/sampbaer-creator/GridGuard)
+
+A Utah planning and property-intelligence platform with satellite mapping, official flood, wildfire, and wind overlays, scenario comparison, explainable risk metrics, and planning-ready exports.
+
+**Built with:** Next.js, React, FastAPI, Python, Leaflet, GIS services, and Cloudflare Workers
+
+**[Open the live application →](https://gridguard-utah.earthy-moth-6817.chatgpt.site)**
+
 ### ☀️ [WattWeather](https://github.com/sampbaer-creator/WattWeather)
 
-A simple, responsive U.S. weather app. Search by city or ZIP code to see current conditions, temperature, humidity, wind, precipitation, UV index, sunrise, sunset, and a seven-day forecast.
+A responsive U.S. weather app for current conditions and seven-day forecasts by city or ZIP code.
 
 **Built with:** C#, Blazor WebAssembly, ASP.NET Core, Open-Meteo REST APIs, CSS, and xUnit
-
-**What it demonstrates:** asynchronous API integration, strongly typed data models, component-based UI development, responsive design, input handling, graceful error states, automated testing, and GitHub Pages deployment.
 
 **[Open the live application →](https://sampbaer-creator.github.io/WattWeather/)**
 
