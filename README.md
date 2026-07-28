@@ -64,36 +64,33 @@ A client-ready statistical analysis for the UVU Women’s Impact Lab using regre
 
 A personal event website featuring custom imagery, event information, registry links, and an RSVP experience.
 
-## Technology I use
+## Technology toolbox
 
-### Data and business intelligence
+### Languages, frameworks, and data tools
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=013e37)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,sqlite,js,react,nextjs,cs,dotnet,html,css,tailwind,fastapi&perline=7" alt="Python, R, PostgreSQL, MySQL, SQLite, JavaScript, React, Next.js, C sharp, .NET, HTML, CSS, Tailwind CSS, and FastAPI" />
+</p>
 
-### Software and web development
+### Business intelligence and analytics
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=013e37)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=013e37)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=013e37)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistical_Analysis-013e37?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-### Tools and platforms
+### Cloud, GIS, and developer tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,cloudflare,git,github,vscode,postman,vite&perline=7" alt="Azure, Cloudflare, Git, GitHub, Visual Studio Code, Postman, and Vite" />
+</p>
+
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ## GitHub overview
 
