@@ -14,6 +14,7 @@ Here you will find:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Baer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-p-baer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-013e37?style=for-the-badge&logo=googlechrome&logoColor=ffefb3)](https://sampbaer-creator.github.io/Portfolio/)
+[![BearVault](https://img.shields.io/badge/BearVault-Household_Finance-315f50?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sampbaer-creator/BaerVault)
 [![GridGuard](https://img.shields.io/badge/Live_GridGuard-1f9c8b?style=for-the-badge&logo=googlemaps&logoColor=white)](https://gridguard-utah.earthy-moth-6817.chatgpt.site)
 [![WattWeather](https://img.shields.io/badge/Live_WattWeather-ffefb3?style=for-the-badge&logo=githubpages&logoColor=013e37)](https://sampbaer-creator.github.io/WattWeather/)
 
@@ -31,6 +32,12 @@ At Utah Valley University, I am completing a **B.S. in Information Systems with 
 ![Graduation](https://img.shields.io/badge/Graduation-April_2027-ffefb3?style=flat-square&labelColor=013e37)
 
 ## Featured projects
+
+### 🐻 [BearVault](https://github.com/sampbaer-creator/BaerVault)
+
+A secure household-finance application for shared budgeting, cash-flow tracking, and investment management. Clerk Organizations define household membership, Supabase row-level security isolates financial records, and Twelve Data provides live and historical market information.
+
+**Built with:** Next.js, React, TypeScript, Clerk, Supabase PostgreSQL, Twelve Data, Mantine, Recharts, and Vercel
 
 ### 🗺️ [GridGuard](https://github.com/sampbaer-creator/GridGuard)
 
@@ -69,7 +76,7 @@ A personal event website featuring custom imagery, event information, registry l
 ### Languages, frameworks, and data tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,sqlite,js,react,nextjs,cs,dotnet,html,css,tailwind,fastapi&perline=7" alt="Python, R, PostgreSQL, MySQL, SQLite, JavaScript, React, Next.js, C sharp, .NET, HTML, CSS, Tailwind CSS, and FastAPI" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,sqlite,js,react,nextjs,cs,dotnet,html,css,tailwind,fastapi,supabase,vercel&perline=8" alt="Python, R, PostgreSQL, MySQL, SQLite, JavaScript, React, Next.js, C sharp, .NET, HTML, CSS, Tailwind CSS, FastAPI, Supabase, and Vercel" />
 </p>
 
 ### Business intelligence and analytics
